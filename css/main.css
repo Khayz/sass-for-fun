@@ -1,0 +1,94 @@
+h1.title {
+  font: normal 24px "sans-serif";
+  color: #F44336;
+}
+
+div.container {
+  color: #F44336;
+  box-shadow: 0 2px 1px 0 rgba(0, 0, 0, 0.2);
+}
+div.container p {
+  font: normal 24px "sans-serif";
+}
+
+.blue-sq {
+  width: 40px;
+  height: 40px;
+  background-color: rgba(0, 0, 255, 0.5);
+}
+
+.red-sq {
+  width: 40px;
+  height: 40px;
+  background-color: rgba(255, 0, 0, 0.5);
+}
+
+.dialog-button, .exit, .cancel, .confirm {
+  box-sizing: border-box;
+  color: #fff;
+  background-color: green;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+  padding: 12px 40px;
+}
+
+.confirm {
+  background-color: red;
+}
+
+.cancel {
+  background-color: blue;
+}
+
+ul {
+  list-style: none;
+}
+ul li {
+  padding: 15px;
+  display: inline-block;
+}
+ul li a {
+  text-decoration: none;
+  font-size: 16px;
+  color: red;
+}
+ul li a:hover {
+  color: gray;
+}
+
+.item1 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.item2 {
+  width: 50px;
+  height: 50px;
+  background-color: blue;
+}
+
+a:hover {
+  background-color: navy;
+}
+
+#img1 {
+  background: url("https:www.w3schools.com/html/img_chania.jpg") no-repeat;
+}
+
+#img2 {
+  background: url("https:www.w3schools.com/html/img_girl.jpg") no-repeat;
+}
+
+#img3 {
+  background: url("https:www.w3schools.com/html/pic_trulli.jpg") no-repeat;
+}
+
+#img4 {
+  background: url("https:www.w3schools.com/html/workplace.jpg") no-repeat;
+}
+
+#img5 {
+  background: url("https:www.w3schools.com/html/img_pink_flowers.jpg") no-repeat;
+}
+
+/*# sourceMappingURL=main.css.map */

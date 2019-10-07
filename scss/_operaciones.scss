@@ -1,0 +1,13 @@
+
+$width: 100px;
+
+.item1{
+    width: $width;
+    height: $width;
+    background-color: red;
+}
+.item2{
+    width: $width / 2;
+    height: $width / 2;
+    background-color: blue;
+}
